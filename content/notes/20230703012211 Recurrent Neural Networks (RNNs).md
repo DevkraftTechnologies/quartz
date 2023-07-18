@@ -10,6 +10,7 @@ tags:
 cssclasses:
 - 
 publish:
+dg-publish: true
 ---
 
 <!-- 
