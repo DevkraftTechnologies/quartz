@@ -1,4 +1,4 @@
-baseURL = "http://quartz.devkraft.in/"
+baseURL = "https://quartz.devkraft.in/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
