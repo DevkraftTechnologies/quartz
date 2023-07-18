@@ -1,4 +1,5 @@
 ---
+title: "Generative Adversarial Networks (GANs)"
 created: 2023-06-28 03:15
 aliases: 
 - GANs

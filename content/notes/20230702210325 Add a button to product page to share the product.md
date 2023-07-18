@@ -1,4 +1,5 @@
 ---
+title: "Add a button to product page to share the product"
 created: 2023-07-02 21:03
 aliases: 
 - add a button to product page to share the product

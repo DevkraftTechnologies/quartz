@@ -1,4 +1,5 @@
 ---
+title: "Recurrent Neural Networks (RNNs)"
 created: 2023-07-03 01:22
 aliases: 
 - Recurrent Neural Networks (RNNs)

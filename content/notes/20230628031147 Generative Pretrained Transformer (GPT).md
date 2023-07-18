@@ -1,4 +1,5 @@
 ---
+title: "Generative Pretrained Transformer (GPT)"
 created: 2023-06-28 03:11
 aliases: 
 - GPT

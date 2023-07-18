@@ -1,4 +1,5 @@
 ---
+title: "Generative AI - A Mathematical Perspective"
 created: 2023-06-30 04:18
 aliases: 
 - Generative AI - A Probabilistic Perspective

@@ -1,4 +1,5 @@
 ---
+title: "Discriminative AI"
 created: 2023-06-30 02:02
 aliases: 
 - Discriminative AI

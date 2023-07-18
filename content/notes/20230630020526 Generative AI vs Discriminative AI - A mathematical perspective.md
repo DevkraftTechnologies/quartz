@@ -1,4 +1,5 @@
 ---
+title: "Generative AI vs Discriminative AI - A mathematical perspective"
 created: 2023-06-30 02:05
 aliases: 
 - A Mathematical Perspective

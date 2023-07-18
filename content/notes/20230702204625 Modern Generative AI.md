@@ -1,4 +1,5 @@
 ---
+title: "Modern Generative AI"
 created: 2023-07-02 20:46
 aliases: 
 - Modern Generative AI

@@ -1,4 +1,5 @@
 ---
+title: "Positional Encoding"
 created: 2023-07-03 03:19
 aliases: 
 - Positional Encoding

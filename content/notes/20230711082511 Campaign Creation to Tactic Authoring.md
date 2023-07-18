@@ -1,4 +1,5 @@
 ---
+title: "Campaign Creation to Tactic Authoring"
 created: 2023-07-11 08:25
 aliases: 
 - Campaign Creation to Tactic Authoring

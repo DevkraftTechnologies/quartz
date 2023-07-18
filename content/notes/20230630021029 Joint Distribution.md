@@ -1,4 +1,5 @@
 ---
+title: "Joint Distribution"
 created: 2023-06-30 02:10
 aliases: 
 - Joint Distribution

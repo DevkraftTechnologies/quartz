@@ -1,4 +1,5 @@
 ---
+title: "Alternatives to LangChain"
 created: 2023-07-03 06:38
 aliases: 
 - Alternatives to LangChain
