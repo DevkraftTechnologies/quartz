@@ -9,20 +9,20 @@ cssclasses:
 publish:
 ---
 
-%%
+<!--
 tags:
-%%
+-->
 
-%%internal
+<!--internal
 parent:: [[]]
 child:: [[]]
 related:: [[]]
-%%
+-->
 
-%%external
+<!--external
 
 - []()
-%%
+-->
 
 # Discriminative AI
 

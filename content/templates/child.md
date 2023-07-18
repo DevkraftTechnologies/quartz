@@ -9,19 +9,19 @@ cssclasses:
 publish:
 ---
 
-%% 
+<!-- 
 tags: 
-%%
+-->
 
-%%internal
+<!--internal
 parent:: [[{{fromTitle}}]]
 child:: [[]]
 related:: [[]]
-%%
+-->
 
-%%external
+<!--external
 - [ ] []()
-%%
+-->
 
 {{date:YYYYMMDDHHmmss}} {{newTitle}}
 

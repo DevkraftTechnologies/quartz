@@ -9,19 +9,19 @@ cssclasses:
 publish:
 ---
 
-%% 
+<!-- 
 tags: 
-%%
+-->
 
-%%internal
+<!--internal
 parent:: [[]]
 child:: [[]]
 related:: [[]]
-%%
+-->
 
-%%external
+<!--external
 - []()
-%%
+-->
 
 # Add a button to product page to share the product
 

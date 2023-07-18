@@ -9,20 +9,20 @@ cssclasses:
 publish:
 ---
 
-%%
+<!--
 tags:
-%%
+-->
 
-%%internal
+<!--internal
 parent:: [[notes/20230630020526 Generative AI vs Discriminative AI]]
 child:: [[]]
 related:: [[]]
-%%
+-->
 
-%%external
+<!--external
 
 - []()
-%%
+-->
 
 # Generative AI vs Discriminative AI - A Mathematical Perspective
 

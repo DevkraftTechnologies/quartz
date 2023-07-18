@@ -10,19 +10,19 @@ cssclasses:
 publish:
 ---
 
-%% 
+<!-- 
 tags: 
-%%
+-->
 
-%%internal
+<!--internal
 parent:: [[notes/20230628030901 Generative AI|Generative AI]]
 child:: [[]]
 related:: [[]]
-%%
+-->
 
-%%external
+<!--external
 - []()
-%%
+-->
 
 # Generative Pretrained Transformer (GPT)
 
