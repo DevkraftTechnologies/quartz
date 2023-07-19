@@ -3,7 +3,7 @@ title: Devkraft Technologies
 enableToc: false
 ---
 
-## Generative Index
+## Generative AI
 
 [[notes/20230628030801 Links.md |Links]]
 
