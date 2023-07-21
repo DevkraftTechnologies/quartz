@@ -1,3 +1,29 @@
+---
+title: "Generative AI"
+created: 2023-06-28 03:09
+aliases: 
+- Generative AI
+tags:
+- In Progress
+cssclasses:
+- 
+publish:
+---
+
+<!-- 
+tags: 
+-->
+
+<!--internal
+parent:: [[]]
+child:: [[]]
+related:: [[]]
+-->
+
+<!--external
+- []()
+-->
+
 [[notes/20230628030800 Checklist.md | Checklist]]
 [[notes/20230628030801 Links.md | Links]]
 [[notes/Shared_Links.md | Shared Links]]
