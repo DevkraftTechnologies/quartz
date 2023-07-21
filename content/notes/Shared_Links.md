@@ -39,3 +39,6 @@ related:: [[]]
 - [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [https://www.reddit.com/r/StableDiffusion/comments/134yxoc/any_free_alternatives_to_midjourney/](https://www.reddit.com/r/StableDiffusion/comments/134yxoc/any_free_alternatives_to_midjourney/)
 - [https://github.com/DevkraftTechnologies/langchain](https://github.com/DevkraftTechnologies/langchain)
+- [https://www.eraser.io/home](https://www.eraser.io/home)
+- [https://www.happyaccidents.ai/](https://www.happyaccidents.ai/)
+- [https://robocorp.com/portal/robot/ekipalen/Assistant-OpenAI-test](https://robocorp.com/portal/robot/ekipalen/Assistant-OpenAI-test)
