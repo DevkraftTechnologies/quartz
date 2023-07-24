@@ -42,3 +42,5 @@ related:: [[]]
 - [https://www.eraser.io/home](https://www.eraser.io/home)
 - [https://www.happyaccidents.ai/](https://www.happyaccidents.ai/)
 - [https://robocorp.com/portal/robot/ekipalen/Assistant-OpenAI-test](https://robocorp.com/portal/robot/ekipalen/Assistant-OpenAI-test)
+- [https://supabase.com/docs/guides/ai/examples/image-search-openai-clip](https://supabase.com/docs/guides/ai/examples/image-search-openai-clip)
+- [https://supabase.com/docs/guides/cli](https://supabase.com/docs/guides/cli)
