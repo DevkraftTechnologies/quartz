@@ -29,11 +29,11 @@ related:: [[]]
 
 # Content Repurposing (Email to Video): 
 - Langchain/OpenAI (Create text)
-- Happyaccidents/playgrounds (Text to image)
-- TBD (Ai Video generator)
+- Happyaccidents/playgrounds/leonardoai/python script (Text to image)
+- Synthesia (AI Video generator) (D-ID, Heygen, Invideo, RunawayML: Didn't create/play the video)
 
 # Semantic Search: 
-- Supabase (OpenAI CLIP Model and Supabase Vector)
+- Supabase (OpenAI CLIP Model and Supabase Vector) (To be hosted on EC2)
 
 # Semantic QnA: 
 - Langchain
