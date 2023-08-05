@@ -3,6 +3,7 @@ title: "Large Language Models (LLMs)"
 created: 2023-06-28 03:10
 aliases: 
 - LLMs
+- Large Language Models
 tags:
 - TODO
 cssclasses:
