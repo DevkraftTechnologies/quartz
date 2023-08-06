@@ -26,7 +26,7 @@ related:: [[]]
 
 # How to use Generative AI
 
-The most general way to think about [[notes/20230628030901 Generative AI|Generative AI]] is as a mapping from (potential) antecedents to desired consequents
+The most general way to think about [[notes/20230628030901 What is Generative AI|Generative AI]] is as a mapping from (potential) antecedents to desired consequents
 
 Let’s say that the **goal** is to become the preeminent brand in the X market. 
 

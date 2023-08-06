@@ -2,9 +2,9 @@
 title: "Generative AI"
 created: 2023-06-28 03:09
 aliases: 
-- Generative AI
+- Generative AI Index
 tags:
-- In Progress
+- InProgress
 cssclasses:
 - 
 publish:
@@ -23,13 +23,15 @@ related:: [[]]
 <!--external
 - []()
 -->
+# Index
+
+replace with auto-generated index using dataview
 
 - [[notes/20230628030800 Checklist.md | Checklist]]
 - [[notes/20230628030801 Links.md | Links]]
-- [[notes/Shared_Links.md | Shared Links]]
-- [[notes/4Tasks.md | THE 4 Tasks]]
+- [[notes/Indegene|Indegene]]
 - [[notes/20230628030810 Large Language Models (LLMs).md | Large Language Models (LLMs)]]
-- [[notes/20230628030901 Generative AI.md | Generative AI]]
+- [[notes/20230628030901 What is Generative AI| Generative AI]]
 - [[notes/20230628030911 Build GPT from scratch.md | Build GPT from scratch]]
 - [[notes/20230628031147 Generative Pretrained Transformer (GPT).md | Generative Pretrained Transformer (GPT)]]
 - [[notes/20230628031546 Generative Adversarial Networks (GANs).md | Generative Adversarial Networks (GANs)]]

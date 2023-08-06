@@ -26,3 +26,11 @@ related:: [[]]
 -->
 
 # Large Language Model (LLMs)
+
+The parameters a like a model's memory, the more parameters a model has the more sophisticated task it can perform
+
+## Usecases
+
+- Writing 
+- Text Summarisation
+- Named Entity Recognition (NER)

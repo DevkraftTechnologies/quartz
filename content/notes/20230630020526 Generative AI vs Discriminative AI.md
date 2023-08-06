@@ -28,7 +28,7 @@ related:: [[]]
 
 When working with [[notes/20230630020251 Discriminative AI|Discriminative AI]], we don’t care about these features in and of themselves - we only care about them insofar as they help us make a decision.
 
-In contrast, with [[notes/20230628030901 Generative AI|Generative AI]], we do care about these features themselves. 
+In contrast, with [[notes/20230628030901 What is Generative AI|Generative AI]], we do care about these features themselves. 
 
 Indeed, the whole goal of Generative AI is to understand how these features relate in order to generate plausible data. 
 
