@@ -28,19 +28,15 @@ related:: [[]]
 # Indegene
 
 [[notes/Generative_AI|Generative AI]]
-## Campaign Creation to Tactic Authoring:
+## Usecases
 
-OpenAI API/Langchain
-## Content Repurposing (Email to Video)
-
-- Langchain/OpenAI (Create text)
-- Happyaccidents/playgrounds/leonardoai/python script (Text to image)
-- Synthesia (AI Video generator) (D-ID, Heygen, Invideo, RunawayML: Didn't create/play the video)
-
-## Semantic Search
-
-- Supabase (OpenAI CLIP Model and Supabase Vector) (To be hosted on EC2)
-
-## Semantic QnA
-
-- Langchain
+- Campaign Creation to Tactic Authoring
+	- OpenAI API
+- [[notes/20230711101408 Content Repurposing (Email to Video)|Content Repurposing (Email to Video)]]
+- Semantic Image Search
+	- OpenAI API for Embedding Images
+	- pgVector
+- Semantic QnA
+	- OpenAI API for Embedding Text
+	- pgVector
+	- Langchain
