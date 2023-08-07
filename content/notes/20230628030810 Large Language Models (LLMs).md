@@ -28,9 +28,15 @@ related:: [[]]
 # Large Language Model (LLMs)
 
 The parameters a like a model's memory, the more parameters a model has the more sophisticated task it can perform
-
 ## Usecases
 
-- Writing 
+- Chatbots
+- Writing
 - Text Summarisation
-- Named Entity Recognition (NER)
+- Translation
+	- Languages for ex. English to German
+	- Natural Language to Programming Language
+- Information Retrieval
+	- Named Entity Recognition (NER)
+- Augmenting LLMs
+	- Connect to external data sources like APIs, database etc

@@ -28,8 +28,8 @@ related:: [[]]
 
 The choice is whether to use Foundational [[notes/20230628030810 Large Language Models (LLMs)|LLMs]] as it is or perform instruction fine tuning to tailor it to a particular task
 
-- BERT
-- BLOOM
+- BERT (100M)
+- BLOOM (176B)
 - GPT
 - LLaMa
 - FLAN-T5

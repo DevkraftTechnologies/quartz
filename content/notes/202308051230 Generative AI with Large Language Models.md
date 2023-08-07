@@ -48,8 +48,9 @@ related:: [[]]
 ### Week 2
 
 - Explore options adapt pre-trained models to specific tasks and datasets using a process called [[notes/202308061628 Instruction Fine Tuning|Instruction Fine Tuning]]
+- How to fine tune smaller models (~1-30 B parameters) can perform well on specific focussed tasks
 
 ### Week 3
 
+- How to augment existing LLMs with connection to external data sources
 - How to align outputs of language models with human values in order to increase helpfulness and reduce potential harm i.e. [[notes/202308051314 RLHF|RLHF]]
-ors

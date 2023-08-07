@@ -32,3 +32,10 @@ one of the first things we have to decide is whether we're taking a [[notes/2023
 
 Then as a follow up, whether we want to fine tune and customize that model for our specific data
 
+> when do you need a giant model, 100 billion (or bigger) parameters
+>
+> and when can a 1-30 billion parameter model or
+>
+> or even sub 1 billion parameter model made to work for a specific application?
+
+> we can use quite small models and still get quite a lot of capability out of them

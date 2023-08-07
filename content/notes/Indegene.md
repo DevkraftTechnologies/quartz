@@ -27,10 +27,10 @@ related:: [[]]
 
 # Indegene
 
-[[notes/Generative_AI|Generative AI]]
+[[notes/Index|Generative AI]]
 ## Usecases
 
-- Campaign Creation to Tactic Authoring
+- [[notes/20230711082511 Campaign Creation to Tactic Authoring|Campaign Creation to Tactic Authoring]]
 	- OpenAI API
 - [[notes/20230711101408 Content Repurposing (Email to Video)|Content Repurposing (Email to Video)]]
 - Semantic Image Search
