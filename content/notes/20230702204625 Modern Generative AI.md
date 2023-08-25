@@ -26,7 +26,7 @@ related:: [[]]
 
 # Modern Generative AI
 
-[[notes/20230628030901 What is Generative AI|Generative AI]] is not a new tech, but the recent explosion in performance and interest can be attributed to advances made in the last 5 years
+[[notes/20230628030901 Generative AI|Generative AI]] is not a new tech, but the recent explosion in performance and interest can be attributed to advances made in the last 5 years
 
 In the image space (models like [DALL-E 2](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/), [Imagen](https://www.assemblyai.com/blog/how-imagen-actually-works/), [Stable Diffusion](https://www.assemblyai.com/blog/stable-diffusion-1-vs-2-what-you-need-to-know/), etc.), advances have relied on the development of [Diffusion Models](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/).
 

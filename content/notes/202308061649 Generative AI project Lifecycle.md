@@ -26,16 +26,20 @@ related:: [[]]
 
 # Generative AI project Life Cycle
 
-The [[notes/20230628030901 What is Generative AI|Generative AI]] project Lifecycle is a guide through the individual stages and decisions we have to make when developing Generative AI applications
+Build a good intuition about the important decisions to make, the potential difficulties, and the infrastructure needed to develop and serve the application
 
-one of the first things we have to decide is whether we're taking a [[notes/20230806171025 Foundational Models|Foundational Models]] off the shelf or pre-training our own model
+The [[notes/20230628030901 Generative AI|Generative AI]] project Lifecycle is a guide through the individual stages and decisions we have to make when developing Generative AI applications
 
-Then as a follow up, whether we want to fine tune and customize that model for our specific data
+![[notes/images/Screenshot 2023-08-10 at 6.13.12 AM.png]]
 
-> when do you need a giant model, 100 billion (or bigger) parameters
->
-> and when can a 1-30 billion parameter model or
->
-> or even sub 1 billion parameter model made to work for a specific application?
+This framework maps out the tasks required to take the project from conception to launch. 
 
-> we can use quite small models and still get quite a lot of capability out of them
+![[notes/20230810063625 Scope Stage|Scope Stage]]
+
+![[notes/20230810063546 Select Stage|Select Stage]]
+
+![[notes/20230810063457 Adapt and Align stage|Adapt and Align stage]]
+
+![[notes/20230810063410 Application Integration Stage|Application Integration]]
+
+

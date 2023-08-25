@@ -1,7 +1,7 @@
 ---
-created: 2023-08-06 16:27
+created: 2023-08-09 05:50
 aliases: 
-- In-context Learning
+- Context Window
 tags:
 - 
 cssclasses:
@@ -24,4 +24,6 @@ related:: [[]]
 - [ ] []()
 -->
 
-# In-context Learning
+# Context Window
+
+The full amount of text or the **memory available** to use for the prompt is called the **Context Window**.

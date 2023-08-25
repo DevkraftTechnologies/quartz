@@ -4,7 +4,7 @@ created: 2023-06-28 03:09
 aliases: 
 - Build GPT from scratch
 tags:
-- TODO
+- 
 cssclasses:
 - 
 publish:

@@ -5,7 +5,7 @@ aliases:
 - LLMs
 - Large Language Models
 tags:
-- TODO
+- 
 cssclasses:
 - 
 publish:
@@ -40,3 +40,9 @@ The parameters a like a model's memory, the more parameters a model has the more
 	- Named Entity Recognition (NER)
 - Augmenting LLMs
 	- Connect to external data sources like APIs, database etc
+
+## Limitations
+
+There are some fundamental limitations of LLMs that can be difficult to overcome through training alone 
+- tendencies to invent information when it doesn't know an answer, or
+- limited ability to carry out complex reasoning and mathematics

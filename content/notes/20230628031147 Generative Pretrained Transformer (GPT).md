@@ -5,7 +5,7 @@ aliases:
 - GPT
 - Generative Pretrained Transformer.
 tags:
-- TODO
+- 
 cssclasses:
 - 
 publish:
