@@ -34,3 +34,9 @@ related:: [[]]
 - use [[notes/20230711172239 Eleven Labs|Eleven Labs]] speech synthesis to generate audio
 - animate each character using [[notes/20230711172730 D-ID AI|D-ID AI]]
 - ffmpeg or video editor (like ) to join clip together
+
+## Tools/Services
+
+- Langchain/OpenAI (create text)
+- Happyaccidents/playgrounds/leonardoai/python script (Text to image)
+- Synthesia (AI Video generator) (D-ID, Heygen, Invideo, RunawayML: Didn't create/play the video)

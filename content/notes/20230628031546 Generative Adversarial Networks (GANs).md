@@ -5,7 +5,7 @@ aliases:
 - GANs
 - Generative Adversarial Networks
 tags:
-- TODO
+- 
 cssclasses:
 - 
 publish:

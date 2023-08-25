@@ -4,7 +4,7 @@ created: 2023-06-30 04:29
 aliases: 
 - How to use Generative AI
 tags:
-- TODO
+- 
 cssclasses:
 - 
 publish:
