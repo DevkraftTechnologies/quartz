@@ -24,7 +24,7 @@ related:: [[]]
 - [ ] []()
 -->
 
-# Alternatives to LangChain
+# Alternatives to [[notes/20230703061520 LangChain|LangChain]]
 
 - [AutoGPT](https://autogpt.net)
   - Auto-GPT has tendencies where it gets stuck in infinite logic loops and rabbit holes
