@@ -45,7 +45,7 @@ related:: [[]]
 	- For example, token IDs can match two complete words, or represent parts of words
 	- **It important is that once we've selected a tokenizer to train the model, we must use the same tokenizer to generate text.**
 - The model processes each of the input tokens in parallel
-- The tokens are [[notes/20230703031649 Word Embedding|Embedded]] 
+- The tokens are [[notes/20230703031649 Word Embeddings|Embedded]] 
 	- Each token is represented as a vector and occupies a unique location within that high-dimensional space trainable vector space
 	- Each token ID in the vocabulary is matched to a multi-dimensional vector ![[notes/images/Screenshot 2023-08-07 at 6.00.01 AM.png|500]]
 	- **The intuition is that these vectors will learn to encode the meaning and context of individual tokens in the input sequence**

@@ -1,12 +1,11 @@
 ---
 created: 2023-08-27 12:19
-aliases: 
-- 
-tags:
-- 
-cssclasses:
-- 
-publish:
+aliases:
+  - Quantization
+  - Quantization of LLMs
+tags: 
+cssclasses: 
+publish: 
 dg-publish: false
 ---
 
@@ -24,7 +23,7 @@ related:: [[]]
 - [ ] []()
 -->
 
-# Quantization
+# Quantization of LLMs
 
 Quantization is kind of a compression technique for LLMs. 
 
