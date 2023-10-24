@@ -1,5 +1,5 @@
 ---
-title: Devkraft Technologies
+title: Digital Garden
 enableToc: false
 ---
 

@@ -1,7 +1,0 @@
-site_name: docs.devkraft.in
-docs_dir: content
-# nav:
-#   - Home: _index.md
-#   - Pages: /notes/*
-theme:
-  name: material
