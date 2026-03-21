@@ -22,5 +22,5 @@ Generative AI and modern ML: LLMs, transformers, GANs, ChatGPT, prompt engineeri
 ## Related Folders
 
 - `../content/` - Content creation (videos/scripts) vs this (written knowledge base)
-- `../personal-branding-content-marketing/` - Brand strategy that this site supports
+- `../content/branding-toolkit/` - Brand strategy that this site supports
 - `../career/` - Technical knowledge here supports career positioning
